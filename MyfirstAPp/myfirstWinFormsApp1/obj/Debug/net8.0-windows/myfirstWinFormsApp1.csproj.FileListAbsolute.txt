@@ -1,0 +1,16 @@
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\bin\Debug\net8.0-windows\myfirstWinFormsApp1.exe
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\bin\Debug\net8.0-windows\myfirstWinFormsApp1.deps.json
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\bin\Debug\net8.0-windows\myfirstWinFormsApp1.runtimeconfig.json
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\bin\Debug\net8.0-windows\myfirstWinFormsApp1.dll
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\bin\Debug\net8.0-windows\myfirstWinFormsApp1.pdb
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.Form1.resources
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.csproj.GenerateResource.cache
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.AssemblyInfo.cs
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.dll
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\refint\myfirstWinFormsApp1.dll
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.pdb
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\myfirstWinFormsApp1.genruntimeconfig.cache
+C:\Users\gz\Desktop\c#\8.0\MyfirstApp\C-Sharpe\MyfirstAPp\myfirstWinFormsApp1\obj\Debug\net8.0-windows\ref\myfirstWinFormsApp1.dll
