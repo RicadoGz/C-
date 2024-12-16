@@ -21,7 +21,7 @@ namespace myfirstWinFormsApp1
             y = x++;
             MessageBox.Show(y.ToString());
             MessageBox.Show(x.ToString());
-
+            int[] idnt = new int[6];
 
         }
     }
